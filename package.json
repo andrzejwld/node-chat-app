@@ -15,6 +15,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.3",
+    "moment": "^2.15.1",
     "socker.io": "0.0.0-alpha-beta",
     "socket.io": "^1.4.8"
   },
